@@ -3,7 +3,7 @@ Facebook messenger Convo Server nonstOp Loader 👑
 
 rm -rf Messenger
 
- git clone https://github.com/ALI-JUTT/Convo-Messenger-
+ git https://github.com/ALI-JUTT/Convo-Messenger-.git
 
 cd Convo-Messenger
 
